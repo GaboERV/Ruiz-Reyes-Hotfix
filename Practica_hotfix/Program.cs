@@ -8,11 +8,11 @@ namespace Practica_hotfix
     {
         static void Main(string[] args)
         {
-            Personaje personaje = new 
+            Personaje personaje = new Personaje
         {
             Nombre = "Guerrero",
-            Vida = 10.0,
-            Ataque = .20,
+            Vida = 10,
+            Ataque = 20,
             Defensa = 10,
             Nivel = 1
         };
